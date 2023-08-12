@@ -17,4 +17,3 @@ google-chrome index.html
 - 👤 **Himanshu singh sengar**
 
 
-  * GitHub: https://github.com/himanshu15082002
