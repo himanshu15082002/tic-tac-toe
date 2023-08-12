@@ -16,5 +16,5 @@ google-chrome index.html
 - ## Author
 - 👤 **Himanshu singh sengar**
 
-- * LinkedIn:
-  * GitHub:
+
+  * GitHub: https://github.com/himanshu15082002
